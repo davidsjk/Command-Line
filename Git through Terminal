@@ -18,6 +18,8 @@ git push origin master -
 
 git remote add origin xxxxx(the url) - make a github by adding from computer
 
+git pull origin master, update computer file with master on Git hub.
+
 
 
 These are common Git commands used in various situations:
