@@ -7,7 +7,12 @@ open . - open current directory
 cd [drag file] - puts in the path
 ls -all - gives more info
 
-git status
+git status - check changes
+git commit - commit changes
+
+git commit -a = commit all 
+               -m = with this message
+git push origin - push to origin
 
 
 
