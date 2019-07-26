@@ -7,6 +7,9 @@ open . - open current directory
 cd [drag file] - puts in the path
 ls -all - gives more info
 
+git status
+
+
 
 These are common Git commands used in various situations:
 
