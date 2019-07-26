@@ -1,0 +1,8 @@
+cd - change directory
+pwd - print working directory
+ls - lists
+clear - clear
+open . - open current directory
+[tab] - fills the rest of the word
+cd [drag file] - puts in the path
+ls -all - gives more info
